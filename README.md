@@ -1,9 +1,6 @@
 # Roblox FPS Unlocker for MacOS
 # When Roblox updates you have to run this again
-# To clear some confusion: 
-# DO NOT use THIS BAN WAVE WILL OCCUR SOON ONCE PATCHED use WITH CAUTION ONLY ON ALTS
-# dm @omaw for any problems
-
+# This has been patched in one of Roblox recent updates. I'll keep this open in case anyone wants to learn from the source
 Install: // Run it in Terminal
 
 ```bash
